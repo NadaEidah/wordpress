@@ -1,0 +1,32 @@
+2019-09-08T12:42:31+00:00 CRITICAL Uncaught Error: Call to undefined function mega_stores_navigation() in /var/www/html/wordpress/wp-content/themes/tc-mega-stores/archive.php:30
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/template-loader.php(78): include()
+#1 /var/www/html/wordpress/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#2 /var/www/html/wordpress/index.php(17): require('/var/www/html/w...')
+#3 {main}
+  thrown in /var/www/html/wordpress/wp-content/themes/tc-mega-stores/archive.php on line 30
+
+2019-09-08T12:42:32+00:00 CRITICAL Uncaught Error: Call to undefined function mega_stores_navigation() in /var/www/html/wordpress/wp-content/themes/tc-mega-stores/archive.php:30
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/template-loader.php(78): include()
+#1 /var/www/html/wordpress/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#2 /var/www/html/wordpress/index.php(17): require('/var/www/html/w...')
+#3 {main}
+  thrown in /var/www/html/wordpress/wp-content/themes/tc-mega-stores/archive.php on line 30
+
+2019-09-08T12:42:42+00:00 CRITICAL Uncaught Error: Call to undefined function mega_stores_navigation() in /var/www/html/wordpress/wp-content/themes/tc-mega-stores/archive.php:30
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/template-loader.php(78): include()
+#1 /var/www/html/wordpress/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#2 /var/www/html/wordpress/index.php(17): require('/var/www/html/w...')
+#3 {main}
+  thrown in /var/www/html/wordpress/wp-content/themes/tc-mega-stores/archive.php on line 30
+
+2019-09-08T12:42:49+00:00 CRITICAL Uncaught Error: Call to undefined function mega_stores_navigation() in /var/www/html/wordpress/wp-content/themes/tc-mega-stores/archive.php:30
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/template-loader.php(78): include()
+#1 /var/www/html/wordpress/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#2 /var/www/html/wordpress/index.php(17): require('/var/www/html/w...')
+#3 {main}
+  thrown in /var/www/html/wordpress/wp-content/themes/tc-mega-stores/archive.php on line 30
+
